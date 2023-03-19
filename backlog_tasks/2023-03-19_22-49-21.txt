@@ -1,0 +1,22 @@
+
+
+Task 1: Develop User Registration Feature
+- Estimated time: 4-5 days
+- Assigned to: Jaffer
+
+Task 2: Research and Select Payment Gateway
+- Estimated time: 2-3 days
+- Assigned to: Ramsha
+
+Task 3: Initial Design Work for User Dashboard
+- Estimated time: 3-4 days
+- Assigned to: Ramsha
+
+Backlog Item 1: Develop new User Registration Feature
+- Estimated time: 6-10 days
+
+Backlog Item 2: Implement Payment Gateway
+- Estimated time: 6-8 days
+
+Backlog Item 3: Design new User Dashboard
+- Estimated time: 5-7 days

@@ -1,0 +1,12 @@
+You? I did it like I started it. Is it started mechanical? Okay. Recording has started.
+Okay. Good morning, everyone. Welcome to our Sprint meeting. Let's get started. Let's begin with the round robin check in.
+Let's start with Ramsha. How are you feeling today? I'm feeling good. How about you? Thanks for asking.
+Great. And how about you, Jaffer? I'm feeling a bit stressed today, but I am ready to tackle today's tasks. All right, let's move on to review our backlog tasks. Ramsha, could you give us an update on the current backlog tasks?
+Sure. Currently, our backlog includes developing a new user registration feature, implementing a payment gateway, and designing a new user dashboard, which may approximately take around six to ten days. Thank you, Ramsha. Jaffer, how about you? So I have been reviewing the backlog tasks, and I think we should prioritize the user registration feature, as it is a crucial aspect of the product, and I'm expecting that we can deliver it in four to five days.
+Thank you for your input, Jaffer. Ramsha, do you agree with prioritizing the user registration feature? Yes, I do. I think it's important to have a way for users to register and create an account in order to use our product. Great.
+Thank you. Let's move on to review our Sprint tasks. Jaffer, could you start us off by letting us know what tasks you'll be working on this print? Sure. This print, I'll be working on developing the user registration feature as well as helping out with some testing on the new feature.
+Thank you. Ramsha, how about you? I'll be working on researching and selecting a suitable payment gateway for our product and doing some initial design work for the new user dashboard. All right. Thank you both for the updates.
+Are there any issues or roadblocks that either of you are currently facing?
+I don't think so. Thank you for letting us know. Thank you for letting us know. Let's discuss how we can help resolve these issues after the meeting. That's it for today's print meeting.
+Thank you for your participation, and let's get to work on our tasks. Remember to communicate any shoes or progress to each other regularly. Goodbye.
+Bye. Goodbye.

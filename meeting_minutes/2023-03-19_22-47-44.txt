@@ -1,0 +1,39 @@
+
+
+Meeting Minutes:
+
+Date: [Insert date of the meeting]
+
+Time: [Insert time when the meeting commenced]
+
+Attendees: [List all attendees present during the meeting]
+
+Agenda:
+
+- Round Robin Check-In
+- Review of Backlog Tasks
+- Review of Sprint Tasks
+- Any Issues or Roadblocks
+- Action Items
+
+Discussions and Decisions:
+
+The meeting started with a quick round-robin check-in, where Ramsha and Jaffer shared their feelings, and both seemed ready to start the day's tasks.
+
+The team reviewed the backlog items, which included developing a new user registration feature, implementing a payment gateway, and designing a new user dashboard. Ramsha provided an update on the backlog items and estimated that it could take around six to ten days to complete all the items.
+
+Jaffer suggested that they prioritize the user registration feature, as it is a crucial aspect of the product and can be delivered in four to five days. Ramsha agreed with Jaffer's assessment, and they decided to prioritize the user registration feature.
+
+Then the meeting moved on to review the sprint tasks, where Jaffer shared that he would be working on developing the user registration feature and helping with testing. Ramsha said she would be researching and selecting a suitable payment gateway for their product and doing some initial design work on the new user dashboard.
+
+Finally, the team discussed whether they were facing any issues or roadblocks, and both Jaffer and Ramsha said they did not.
+
+Action Items:
+
+The team agreed to prioritize the user registration feature and set a deadline of four to five days to complete it.
+
+Ramsha will research and select a suitable payment gateway, and Jaffer will start the development work on the user registration feature.
+
+The team will communicate with each other regularly to update their progress and resolve any issues that may arise during the sprint.
+
+The next team meeting will be scheduled for [Insert date and time].

@@ -1,0 +1,7 @@
+
+
+1. Prioritize the user registration feature on the backlog tasks and aim to deliver it in 4-5 days.
+2. Ramsha will research and select a suitable payment gateway and do some initial design work for the new user dashboard.
+3. Jaffer will work on developing the user registration feature and help out with testing on the new feature.
+4. Address any issues or roadblocks after the meeting.
+5. Communicate any updates or progress regularly.

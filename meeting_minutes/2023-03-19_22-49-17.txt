@@ -1,0 +1,38 @@
+
+
+Meeting Minutes
+
+Date: [Insert Date]
+Time: [Insert Time]
+
+Attendees: [Insert Names]
+
+Agenda:
+
+- Round Robin Check In
+- Review of Current Backlog Tasks
+- Prioritization of User Registration Feature
+- Review of Sprint Tasks
+- Discussion of Issues and Roadblocks
+
+Decisions Made:
+
+- The user registration feature will be prioritized and completed within four to five days.
+- Jaffer will work on developing the user registration feature and help with testing.
+- Ramsha will research and select a suitable payment gateway and do initial design work for the new user dashboard.
+- Communication of any issues or progress should be done regularly among team members.
+
+Action Items:
+
+- Jaffer will work on developing the user registration feature.
+- Ramsha will research and select a suitable payment gateway and do initial design work for the new user dashboard.
+- Team members will communicate any issues or progress regularly among themselves.
+
+Deadlines:
+
+- The user registration feature is expected to be completed within four to five days.
+
+Other Information:
+
+- No issues or roadblocks were mentioned during the meeting.
+- The meeting concluded with a reminder to communicate regularly and effectively.
