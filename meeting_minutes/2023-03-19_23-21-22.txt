@@ -1,0 +1,51 @@
+
+
+Meeting Minutes:
+
+Date: [Insert date]
+Time: [Insert time]
+Location: [Insert location]
+
+Attendees: 
+- [Insert names]
+
+Agenda:
+
+1. Round robin check-in.
+2. Review the backlog tasks.
+3. Prioritize tasks.
+4. Review the Sprint tasks.
+5. Discuss issues or roadblocks.
+6. Next steps.
+
+Discussion:
+
+The Meeting was called to order at [Insert time] by [Insert name]. The attendees introduced themselves during the round robin check-in.
+
+1. Round robin check-in: All attendees were asked to give a brief update on how they were feeling. 
+- Ramsha: Feeling good.
+- Jaffer: Feeling stressed but ready to tackle today's tasks.
+
+2. Review the backlog tasks:
+Ramsha provided an update on the current backlog tasks which include developing a new user registration feature, implementing a payment gateway, and designing a new user dashboard. The estimated time for completion of these tasks is around 6 to 10 days.
+
+3. Prioritize tasks:
+Jaffer suggested prioritizing the user registration feature as it is a crucial aspect of the product and can be completed in 4 to 5 days. Ramsha agreed and prioritized the user registration feature.
+
+4. Review the Sprint tasks: 
+Jaffer will be working on developing the user registration feature and providing assistance in testing the new feature. Ramsha will be researching and selecting a suitable payment gateway for the product and doing some initial design work for the new user dashboard.
+
+5. Discuss issues or roadblocks:
+No issues or roadblocks were discussed during the meeting.
+
+6. Next steps:
+The meeting was concluded, and the attendees were reminded to communicate any issues or progress regularly. The deadline for completion of the user registration feature was agreed to be in the next five days.
+
+Actions:
+
+- Prioritize the user registration feature.
+- Jaffer to work on developing the user registration feature and testing the new feature.
+- Ramsha to research and select a suitable payment gateway for the product and do some initial design work for the new user dashboard.
+- Attendees to communicate any issues or progress regularly.
+
+The meeting was adjourned at [Insert time].

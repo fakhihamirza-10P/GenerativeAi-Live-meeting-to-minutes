@@ -13,13 +13,12 @@ def extractText(meeting_name):
     return text
     
 def getMinutes(meeting_name):
-    openai.api_key = "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"
-
+    openai.api_key = os.environ["API_KEY"]
     model_engine = "gpt-3.5-turbo"
     transcript = extractText(meeting_name)
     prompt_text = ["Create meeting minutes from the follwing transcription and include decisions made, make sure to highlight any deadlines or important information mentioned during the meeting ","extract sprint items or sprint tasks or backlog items or backlog tasks along with time estimates ","Create action items from this transcript ", "Summarize the following transcript "]
     folder_name = ['meeting_minutes', "backlog_tasks", "action_items", "summary"]
-    # prompt = 
+
     for i,prompt in enumerate(prompt_text):
         data = {"role": "user", "content": prompt + "\n" + transcript}
 
@@ -34,7 +33,7 @@ def getMinutes(meeting_name):
             with open(filename, "w") as f:
                 f.write(text)
             
-            destination_folder = "/home/ramsha/assemblyai-and-python-in-5-minutes/" + folder_name[i] + "/"
+            destination_folder = "./" + folder_name[i] + "/"
             shutil.move(filename, destination_folder + filename)
             print("Done")
         else:
@@ -54,5 +53,5 @@ clip = mp.VideoFileClip(args.recording_path)
 meeting_name = os.path.basename(args.recording_path)
 meeting_name = meeting_name.split('.mp4')
 audio = clip.audio.to_audiofile( meeting_name[0] + ".wav")
-# run_python_command(meeting_name[0] + ".wav")
+run_python_command(meeting_name[0] + ".wav")
 getMinutes(meeting_name[0])

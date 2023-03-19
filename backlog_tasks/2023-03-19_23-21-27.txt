@@ -1,0 +1,17 @@
+
+
+- Backlog tasks:
+  - Develop a new user registration feature (6-10 days)
+  - Implement a payment gateway
+  - Design a new user dashboard (6-10 days)
+
+- Sprint tasks:
+  - Jaffer: Develop the user registration feature and help with testing
+  - Ramsha: Research and select a suitable payment gateway, and do some initial design work for the new user dashboard
+
+- Time estimates:
+  - User registration feature: 4-5 days (Jaffer)
+  - Payment gateway research and selection: N/A (Ramsha)
+  - User dashboard design: N/A (Ramsha)
+
+No issues or roadblocks reported.
